@@ -19,6 +19,8 @@ git branch
 // branching 
 git branch chatfeaturetofik  --creating a branch
 
+git checkout branchname -- to switch to particular branch
+
 //merge conflict
 
 //reinitialization
