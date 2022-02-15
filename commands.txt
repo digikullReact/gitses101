@@ -24,3 +24,5 @@ git checkout branchname -- to switch to particular branch
 //merge conflict
 
 //reinitialization
+
+// git merge command  --->used to merge two branches
