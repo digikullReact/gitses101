@@ -17,6 +17,8 @@ git branch
 
 
 // branching 
+git branch chatfeaturetofik  --creating a branch
+
 //merge conflict
 
 //reinitialization
